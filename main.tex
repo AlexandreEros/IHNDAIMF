@@ -1,0 +1,135 @@
+\documentclass[12pt, openany, oneside]{book}
+
+% ------------------------------------------------------------
+% Fonts (xelatex)
+% ------------------------------------------------------------
+%\usepackage{fontspec}
+%\setmainfont{Palatino Linotype}
+%\setsansfont[Scale=MatchLowercase]{Calibri}
+%\setmonofont[Scale=MatchLowercase]{Consolas}
+
+% ------------------------------------------------------------
+% Language & typography
+% ------------------------------------------------------------
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{microtype}
+
+% ------------------------------------------------------------
+% Hyperlinks (pandoc-converted inline citations land here)
+% ------------------------------------------------------------
+\usepackage[
+  colorlinks = true,
+  linkcolor  = black,
+  urlcolor   = black,
+  citecolor  = black,
+  pdfauthor  = {},
+  pdftitle   = {I Have No Dopamine, and I Must Function}
+]{hyperref}
+
+% ------------------------------------------------------------
+% Tables (markdown tables -> LaTeX tabular/longtable)
+% ------------------------------------------------------------
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{calc}
+
+% pandoc emits \tightlist in compact lists; only defined in its standalone
+% template, so we provide it here since chapter fragments are pandoc'd without -s
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ------------------------------------------------------------
+% Page geometry (memoir)
+% ------------------------------------------------------------
+%\setlrmarginsandblock{3.5cm}{2.5cm}{*}
+%\setulmarginsandblock{3.2cm}{3cm}{*}
+%\checkandfixthelayout
+
+% ------------------------------------------------------------
+% Chapter & part style
+% ------------------------------------------------------------
+%\chapterstyle{madsen}
+
+%\renewcommand{\partnamefont}{\large\scshape}
+%\renewcommand{\partnumfont}{\large\scshape}
+%\renewcommand{\parttitlefont}{\HUGE\bfseries\itshape}
+
+% Suppress the word "Chapter" from chapter headings
+%\renewcommand{\chaptername}{}
+%\renewcommand{\printchapternum}{\chapnumfont\thechapter\quad}
+
+% ------------------------------------------------------------
+% Metadata
+% ------------------------------------------------------------
+\title{\textit{I Have No Dopamine, and I Must Function}}
+\author{}
+\date{}
+
+% ============================================================
+\begin{document}
+% ============================================================
+
+\frontmatter
+\maketitle
+\clearpage
+\tableofcontents
+\clearpage
+
+\mainmatter
+
+% ============================================================
+\part{The Machine That Makes Action Possible}
+% ============================================================
+
+\chapter{The Signal}
+\input{chapters/01_dopamine_substrate}
+\input{chapters/02_dopamine_action}
+
+\chapter{Before the Human Brain}
+\input{chapters/03_it_started}
+\input{chapters/04_urbilateria}
+\input{chapters/05_vertebrates}
+
+\chapter{The Loop Inside the Skull}
+\input{chapters/06_neurology_101}
+\input{chapters/07_pleasure_and_self}
+% Entry 8 (synthesis: The Mechanistic Basis of Agency) — not yet written
+% \input{chapters/08_mechanistic_basis}
+
+% ============================================================
+\part{The Illness}
+% ============================================================
+
+\chapter{One Signal, Many Catastrophes}
+\input{chapters/09_dopamine_spectrum}
+
+\chapter{The Patient and the Taxonomy}
+\input{chapters/10a_trd_basis}
+\input{chapters/10b_traad}
+\input{chapters/10c_self_medication}
+\input{chapters/11_dsm_iii}
+
+\chapter{The Missing Syndrome}
+\input{chapters/12_philopon}
+\input{chapters/13_non_english}
+\input{chapters/14_what_we_dont_know}
+\input{chapters/15_d2_downregulation}
+\input{chapters/16_missing_syndrome}
+
+% ============================================================
+\part{The Atrocity}
+% ============================================================
+
+\chapter{The Political Uses of Non-Agency}
+\input{chapters/17_state_violence}
+\input{chapters/18_restoration}
+
+\chapter{The System That Refused to Look}
+\input{chapters/19_200_billion}
+\input{chapters/20_ibogaine}
+
+% ============================================================
+\end{document}
+% ============================================================

@@ -1,0 +1,26 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.xdv
+
+# Compiled output (rebuild from main.tex)
+main.pdf
+
+# Google Drive / Windows metadata
+desktop.ini
+Thumbs.db
+
+# Local Claude Code settings
+.claude/settings.local.json
