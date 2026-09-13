@@ -1,51 +1,50 @@
 # Summary
 
 * [Start Here](README.md)
+* [The Book](book/README.md)
+  * [Part I — The Machine That Makes Action Possible](book/machine/README.md)
+    * [The Signal](book/machine/signal/README.md)
+      * [Dopamine as the Substrate of Agency](book/machine/signal/dopamine-as-the-substrate-of-agency.md)
+      * [Dopamine and Voluntary Action](book/machine/signal/dopamine-and-voluntary-action.md)
+    * [Before the Human Brain](book/machine/before-human-brain/README.md)
+      * [It Started Three Billion Years Ago](book/machine/before-human-brain/it-started-three-billion-years-ago.md)
+      * [From Urbilateria to Lamprey](book/machine/before-human-brain/from-urbilateria-to-lamprey.md)
+      * [Vertebrates to Mammals](book/machine/before-human-brain/vertebrates-to-mammals.md)
+    * [The Loop Inside the Skull](book/machine/loop-inside-skull/README.md)
+      * [Neurology 101](book/machine/loop-inside-skull/neurology-101.md)
+      * [Dopamine, Pleasure, and the Self](book/machine/loop-inside-skull/dopamine-pleasure-and-the-self.md)
+  * [Part II — The Illness](book/illness/README.md)
+    * [One Signal, Many Catastrophes](book/illness/dopamine-spectrum/README.md)
+      * [The Dopamine Spectrum](book/illness/dopamine-spectrum/the-dopamine-spectrum.md)
+    * [The Patient and the Taxonomy](book/illness/patient-and-taxonomy/README.md)
+      * [The Dopaminergic Basis of Treatment-Resistant Depression](book/illness/patient-and-taxonomy/treatment-resistant-depression.md)
+      * [The TRAAD Spectrum](book/illness/patient-and-taxonomy/the-traad-spectrum.md)
+      * [When Self-Medication Becomes Addiction](book/illness/patient-and-taxonomy/when-self-medication-becomes-addiction.md)
+      * [DSM-III Was Never Clustered Into Existence](book/illness/patient-and-taxonomy/dsm-iii-was-never-clustered-into-existence.md)
+    * [The Missing Syndrome](book/illness/missing-syndrome/README.md)
+      * [Japan's Postwar Philopon Crisis](book/illness/missing-syndrome/japans-postwar-philopon-crisis.md)
+      * [Non-English Follow-up Literature](book/illness/missing-syndrome/non-english-follow-up-literature.md)
+      * [What We Do Not Know About Recovering From Methamphetamine](book/illness/missing-syndrome/what-we-do-not-know-about-recovering-from-methamphetamine.md)
+      * [Dopamine D2 Receptor Downregulation](book/illness/missing-syndrome/dopamine-d2-receptor-downregulation.md)
+      * [Why Stimulant-Induced Cognitive Damage Lacks a Named Syndrome](book/illness/missing-syndrome/why-stimulant-induced-cognitive-damage-lacks-a-named-syndrome.md)
+  * [Part III — The Atrocity](book/atrocity/README.md)
+    * [The Political Uses of Non-Agency](book/atrocity/political-uses-of-non-agency/README.md)
+      * [Dopamine, Agency, and State Violence](book/atrocity/political-uses-of-non-agency/dopamine-agency-and-state-violence.md)
+      * [Restoration of Mesolimbic Reward Capacity](book/atrocity/political-uses-of-non-agency/restoration-of-mesolimbic-reward-capacity.md)
+    * [The System That Refused to Look](book/atrocity/system-that-refused-to-look/README.md)
+      * [The $200 Billion Machine That Forgot to Cure Anything](book/atrocity/system-that-refused-to-look/the-200-billion-machine-that-forgot-to-cure-anything.md)
+      * [Ibogaine and 9-Methyl-β-Carboline](book/atrocity/system-that-refused-to-look/ibogaine-and-9-methyl-beta-carboline.md)
 
-## Part I — The Machine That Makes Action Possible
+## Research Dossiers
 
-### The Signal
-* [Dopamine as the Substrate of Agency](MD/Dopamine as the Substrate of Agency_ Computational Frameworks an.md)
-* [Dopamine and Voluntary Action](MD/Dopamine and Voluntary Action.md)
-* [Is Dopamine Necessary for All Voluntary Action?](MD/Is Dopamine Necessary for All Voluntary Action.md)
+* [About the dossiers](dossiers/README.md)
+  * [Agency](dossiers/agency/README.md)
+    * [Is Dopamine Necessary for All Voluntary Action?](dossiers/agency/is-dopamine-necessary-for-all-voluntary-action.md)
+  * [Theory](dossiers/theory/README.md)
+    * [Precision Dysregulation in Extended Inference](dossiers/theory/precision-dysregulation-in-extended-inference.md)
 
-### Before the Human Brain
-* [It Started Three Billion Years Ago](MD/It Started Three Billion Years Ago.md)
-* [From Urbilateria to Lamprey](MD/From Urbilateria to Lamprey_ The Evolutionary Assembly of Agency.md)
-* [Vertebrates to Mammals](MD/Vertebrates to Mammals.md)
+## Other Ways Through the Project
 
-### The Loop Inside the Skull
-* [Neurology 101: The Six Structures](MD/Neurology 101_ The Six Structures.md)
-* [Dopamine, Pleasure, and the Self](MD/Dopamine, Pleasure, and the Self.md)
-
-## Part II — The Illness
-
-### One Signal, Many Catastrophes
-* [The Dopamine Spectrum](MD/The Dopamine Spectrum_ One Signal, Many Catastrophes.md)
-
-### The Patient and the Taxonomy
-* [The Dopaminergic Basis of Treatment-Resistant Depression](MD/The Dopaminergic Basis of Treatment-Resistant Depression.md)
-* [The TRAAD Spectrum](MD/The TRAAD Spectrum.md)
-* [When Self-Medication Becomes Addiction](MD/When Self-Medication Becomes Addiction.md)
-* [DSM-III Was Never Clustered Into Existence](MD/DSM-III Was Never Clustered Into Existence.md)
-
-### The Missing Syndrome
-* [Japan's Postwar Philopon Crisis](MD/Japan's Postwar Philopon Crisis.md)
-* [Non-English Follow-up Literature](MD/Non-English Follow-up Literature.md)
-* [What We Do Not Know About Recovering From Methamphetamine](MD/What We Do Not Know About Recovering From Methamphetamine.md)
-* [Dopamine D2 Receptor Downregulation](MD/Dopamine D2 Receptor Downregulation.md)
-* [Why Stimulant-Induced Cognitive Damage Lacks a Named Syndrome](MD/Why Stimulant-Induced Cognitive Damage Lacks a Named Syndrome.md)
-
-## Part III — The Atrocity
-
-### The Political Uses of Non-Agency
-* [Dopamine, Agency, and State Violence](MD/Dopamine, Agency, and State Violence.md)
-* [Restoration of Mesolimbic Reward Capacity](MD/Restoration of Mesolimbic Reward Capacity.md)
-
-### The System That Refused to Look
-* [The $200 Billion Machine That Forgot to Cure Anything](MD/The $200 Billion Machine That Forgot to Cure Anything.md)
-* [Ibogaine and 9-Methyl-β-Carboline](MD/Ibogaine and 9-Methyl-β-Carboline.md)
-
-## Research / Side Dossiers
-
-* [Precision Dysregulation in Extended Inference](MD/Precision Dysregulation in Extended Inference.md)
+* [Concepts](concepts/README.md)
+* [Claims](claims/README.md)
+* [Apocrypha / Rhetorical Disruptions](apocrypha/README.md)
