@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: I Have No Dopamine, and I Must Function
+  structure:
+    - type: space
+      key: ihndaimf
+      title: I Have No Dopamine, and I Must Function
+      path: ihndaimf
+      default: true
+      content:
+        directory: ./
