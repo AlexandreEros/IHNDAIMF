@@ -1,15 +1,3 @@
-# yaml-language-server: $schema=https://api.gitbook.com/gitbook-docs.yaml
-#
-# GitBook site-level Git Sync configuration.
-#
-# The GitBook project directory is the repository root (this file sits next
-# to SUMMARY.md). A single default space is mapped to ./ so the existing root
-# SUMMARY.md keeps driving the page tree; no content is moved or duplicated.
-#
-# Git Sync identifies a space by its `key`, not its title or path. Changing
-# the key later makes GitBook create a new space and detach the old one, so
-# treat it as permanent.
-
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: I Have No Dopamine, and I Must Function
